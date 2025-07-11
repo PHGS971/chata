@@ -277,8 +277,8 @@ nowe = false
 
 wait(1.2)
 game.StarterGui:SetCore("SendNotification", {
-Title = "Welcome"; -- the title (ofc)
-Text = "Script Made By RylorHub"; -- what the text says (ofc)
+Title = "executado!"; -- the title (ofc)
+Text = "Script feito por PHGS"; -- what the text says (ofc)
 Icon = ""; -- the image if u want. 
 Duration = 5; -- how long the notification should in secounds
 })
